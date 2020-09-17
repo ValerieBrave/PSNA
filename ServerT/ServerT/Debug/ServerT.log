@@ -1,0 +1,23 @@
+﻿Сборка начата 17.09.2020 12:57:01.
+     1>Проект "D:\PSNA\ServerT\ServerT\ServerT.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ServerT.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _WINSOCK_DEPRECATED_NO_WARNINGS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\ServerT.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt ServerT.cpp
+         ServerT.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PSNA\ServerT\Debug\ServerT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\PSNA\ServerT\Debug\ServerT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PSNA\ServerT\Debug\ServerT.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\pch.obj
+         Debug\ServerT.obj
+         ServerT.vcxproj -> D:\PSNA\ServerT\Debug\ServerT.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ServerT.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ServerT.tlog\ServerT.lastbuildstate".
+     1>Сборка проекта "D:\PSNA\ServerT\ServerT\ServerT.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:07.25

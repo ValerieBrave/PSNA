@@ -1,0 +1,23 @@
+﻿Сборка начата 24.09.2020 8:31:51.
+     1>Проект "D:\PSNA\ClientT\ClientT\ClientT.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ClientT.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _WINSOCK_DEPRECATED_NO_WARNINGS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\ClientT.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt ClientT.cpp
+         ClientT.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PSNA\ClientT\Debug\ClientT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\PSNA\ClientT\Debug\ClientT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PSNA\ClientT\Debug\ClientT.lib" /MACHINE:X86 Debug\ClientT.obj
+         Debug\Error.obj
+         Debug\pch.obj
+         ClientT.vcxproj -> D:\PSNA\ClientT\Debug\ClientT.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ClientT.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ClientT.tlog\ClientT.lastbuildstate".
+     1>Сборка проекта "D:\PSNA\ClientT\ClientT\ClientT.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:07.16
